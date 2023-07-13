@@ -121,6 +121,8 @@ venv.bak/
 /site
 artifacts/
 .artifacts
+.catboost_info
+catboost_info/
 
 # mypy
 .mypy_cache/
